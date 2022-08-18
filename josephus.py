@@ -1,5 +1,3 @@
-# The dumbest way to solve josephus.py, you probably do not need this, 
-# hell even I don't need this
 def josephus(items,k):
     # Since we need only the order in which items are deleted,
     # it is better to create a new list which contains the indices of all items
